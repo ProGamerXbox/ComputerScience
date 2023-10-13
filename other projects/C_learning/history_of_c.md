@@ -11,7 +11,7 @@ timeline
     section History of updates
         1990s : C99 : new features : inline functions, several new data types
         2007 : C11 : new features : type generic macros, anonymous structures, improved Unicode support, atomic operations, multi-threading, and bounds-checked functions.
-        2018 : C17 : 
+        2018 : C17 : current standard for the C programming language : only technical corrections, and clarifications to defects in C11
 ```
 
 # Origins: 
