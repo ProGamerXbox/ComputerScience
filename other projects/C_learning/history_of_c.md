@@ -4,7 +4,7 @@
 
 ```mermaid
 timeline
-    Timeline of C
+    History of C
     1970 : created by Dennis Ritchie
 
 ```
