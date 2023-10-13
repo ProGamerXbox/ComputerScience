@@ -32,3 +32,17 @@ The basic C source character set includes the following characters:
 - Decimal digits: 0–9
 - Graphic characters: ! " # % & ' ( ) * + , - . / : ; < = > ? [ \ ] ^ _ { | } ~
 - Whitespace characters: space, horizontal tab, vertical tab, form feed, newline
+
+# What purpose
+
+1. ### Operating System Development:
+    - develop the Unix operating system
+    - provide a higher-level, portable language for writing Unix
+    - adapted to the operating system to various computer platforms.
+
+2. ### Portability:
+    - designed to be a portable language
+    - separating the low-level, machine-specific code from the high-level code
+    - easier to adapt programs to different systems.
+
+3. ### Efficiency:
