@@ -2,23 +2,11 @@
 
 ```mermaid
 timeline
-    History of C
-
-    1970s : creation of C by Dennis Ritchie
-    1978 : creation of "The C Programming Language" bookby Brian Kernighan and Dennis Ritchie
-
-```
-
-```mermaid
-timeline
-    History of C
-    2002 : LinkedIn
-    2004 : Facebook : Google
-    2005 : Youtube
-    2006 : Twitter
+    title History of C
+    1970s : creation of C : by Dennis Ritchie
+    1978 : creation of "The C Programming Language" book : by Brian Kernighan and Dennis Ritchie
 
 ```
-
 
 
 # Origins: 
