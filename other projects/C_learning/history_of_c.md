@@ -8,3 +8,10 @@ timeline
     1970 : created by Dennis Ritchie
 
 ```
+
+```mermaid
+timeline
+    Deborah Washington Brown
+    1981 : became the first Black woman to earn a doctorate degree
+
+```
