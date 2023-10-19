@@ -121,4 +121,43 @@ def add(a, b):
     return a + b
 ```
 
+## Differences:
+
+### 1. Data Types:
+
+- C requires explicit data type declarations.
+    - For example, in C, you must specify that a variable is an integer: 'int x = 5'.
+
+- Python is dynamically typed
+    - it infers the data type
+        - you don't need to declare it explicitly: 'x = 5'.
+
+### 2. Libraries and Modules:
+
+- C
+    - additional functionality is typically provided by including libraries and headers during compilation.
+
+- Python
+    - uses modules and libraries, which are imported as needed in the code.
+
+### 3. Performance:
+
+- C
+    - is a statically typed language and offers ***finer control over memory and system resources***, making it well-suited for performance-critical applications.
+
+- Python
+    - is dynamically typed and has a layer of abstraction that can make it slower than C for certain tasks.
+
+### Significant Whitespace:
+
+C doesn't rely on indentation for code structure; it's used for ***readability only.***
+
+Python enforces code structure through significant ***whitespace***, making indentation a semantically crucial aspect of the language.
+
 ---
+
+# Summary
+
+While C and Python share some similarities in basic programming constructs, they differ significantly in ***terms of syntax, data typing, memory management, and their typical use cases.***
+
+The choice between the two depends on the specific requirements of a project, with C being favored for ***performance-critical applications*** and Python for its ***ease of use and rapid development.***
