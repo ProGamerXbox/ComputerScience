@@ -27,7 +27,7 @@ Python is much easier to learn as it is a **high level** with simplistic syntax:
 - No semicolons ';' are required for statement termination.
 - Memory management is automatic (garbage collection).
 
-Whereas C is much more **low level** programming language and more complex syntax:
+Whereas C is much more <h2>**low level**</h2> programming language and more complex syntax:
 - Statically typed language.
 - Uses a more verbose syntax with explicit data type declarations.
 - Code blocks are defined with curly braces '{}'.
