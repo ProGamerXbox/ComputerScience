@@ -20,7 +20,7 @@
 
 ## Ease of use and syntax
 
-Python is much easier to learn as it is a <mark>Marked text</mark> ***high level*** with simplistic syntax:
+Python is much easier to learn as it is a ***high level*** with simplistic syntax:
 - Python is a dynamically typed language.
 - It has a more concise syntax with dynamic typing; data types are inferred.
 - Code blocks are defined by indentation using spaces or tabs (significant whitespace).
