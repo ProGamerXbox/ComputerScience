@@ -20,14 +20,14 @@
 
 ## Ease of use and syntax
 
-Python is much easier to learn as it is a **high level** with simplistic syntax:
+Python is much easier to learn as it is a <span style="color:blue">some *blue* text</span>. ***high level*** with simplistic syntax:
 - Python is a dynamically typed language.
 - It has a more concise syntax with dynamic typing; data types are inferred.
 - Code blocks are defined by indentation using spaces or tabs (significant whitespace).
 - No semicolons ';' are required for statement termination.
 - Memory management is automatic (garbage collection).
 
-Whereas C is much more __**low level**__ programming language and more complex syntax:
+Whereas C is much more ***low level*** programming language and more complex syntax:
 - Statically typed language.
 - Uses a more verbose syntax with explicit data type declarations.
 - Code blocks are defined with curly braces '{}'.
