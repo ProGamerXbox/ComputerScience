@@ -7,9 +7,10 @@ mindmap
     root((Standard libraries))
         id))C((
             conservative
-                providing low-level building blocks rather than high-level functionalities
-                    more flexible and performant but can require more code for certain tasks.
-                not as extensive as Python’s in terms of built-in functionalities for various high-level tasks
+                providing low-level building blocks
+                    more flexible and performant
+                not as extensive as Python’s
+                    of built-in functionalities for various high-level tasks
                     frequently rely on third-party libraries
                         like parsing JSON or handling HTTP requests
                 functionalities mainly focused on algorithms, containers, functions, and classes
