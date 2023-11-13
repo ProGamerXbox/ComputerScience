@@ -5,9 +5,11 @@
 ```mermaid
 mindmap
     root((Standard libraries))
-        C
-        Python
+        id))C((
+        id))Python((
             extensive
                 rich set of modules and <br> functions for string handling
+                    regular expressions, mathematics, operating system interface, internet protocols, and more
+            robust standard library
 
 ```
