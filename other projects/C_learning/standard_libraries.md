@@ -1,6 +1,6 @@
 # Standard Libraries
 
-# Python and C Standard libraries differences
+## Python and C Standard libraries differences
 
 ### Advantages
 
